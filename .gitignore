@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MotionDecoder/v16/Server/sqlite3
+/.vs
+/MovementDecoder/bin/Debug
+/MovementDecoder/obj
+/packages
+/MotionDecoder/bin/Debug
+/MotionDecoder/obj
+/MotionDecoder/bin/Release

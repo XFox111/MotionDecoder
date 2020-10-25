@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MotionDecoder.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="filters" Type="System.String" Scope="User">
+      <Value Profile="(Default)">All video files|*.avi;*.mkv;*.mov;*.mp4;*.wmv;*.3gp; *.flv; *.,mpeg; *.ts; *.m2ts; *.rm; *.rmvb; *.ogm; *.webm|AVI|*.avi|MKV|*.mkv|MOV|*.mov|MP4|*.mp4|WMV|*.wmv|FLV|*.flv|MPEG|*.,mpeg|TS|*.ts|M2TS|*.m2ts|RM|*.rm|MVB|*.rmvb|OGM|*.ogm|WebM|*.webm|All files|*.*</Value>
+    </Setting>
+    <Setting Name="threshold" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="duration" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="volume" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-1000</Value>
+    </Setting>
+    <Setting Name="showMessage" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
